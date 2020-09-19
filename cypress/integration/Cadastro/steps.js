@@ -1,4 +1,4 @@
-//Implmentação dos passo descritos na feature
+//Implementação dos passo descritos na feature
 /// <reference types="cypress"/>
 
 let Chance = require("chance");

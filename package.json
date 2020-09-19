@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
+  "scripts": { 
     "cy:open": "npx cypress open",
     "cy:run": "npx cypress run",
     "cy:open:cucumber": "npx cypress open --config-file cypress-cucumber.json",
